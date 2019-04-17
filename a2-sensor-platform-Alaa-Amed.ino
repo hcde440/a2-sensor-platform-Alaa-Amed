@@ -4,8 +4,32 @@
 
 // *********************************************
 
-// Program for collecting humidity and temperature information from DHT22 sensor and barometric pressure from MPL115A2-I2C sensor.
-// The information is displayed on the OLED module. 
+// | Pot Names |
+// Tool for generating random _names_, _surenames_, and _regions_ by turning a potentiometer knob.   
+
+// __Hardware__
+
+// The following parts are needed for this project:
+
+  // 1x Adafruit IO compatible Feather
+  // 1x potentiometer
+  // 1x RGB LED
+  // 1x OLED module
+  // Some jumper wires
+
+// **********************************************
+
+// | Bi-directional Communication with your Adafruit IO Dashboard |
+// Program for sending color data from Adafruit IO to a RGB LED.
+
+// __Hardware__
+
+// The following parts are needed for this project:
+
+  // 1x Adafruit IO compatible Feather
+  // 1x diffused RGB LED - common anode
+  // 3x 560 ohm resistors
+  // 4x jumper wires
 
 /************************** Configuration ***********************************/
 
